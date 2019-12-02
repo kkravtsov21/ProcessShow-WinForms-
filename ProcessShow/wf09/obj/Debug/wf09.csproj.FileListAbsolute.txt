@@ -1,0 +1,19 @@
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\bin\Debug\wf09.exe.config
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\bin\Debug\wf09.exe
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\bin\Debug\wf09.pdb
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.csprojResolveAssemblyReference.cache
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.Form1.resources
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.Properties.Resources.resources
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.csproj.GenerateResource.Cache
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.exe
+c:\users\32136\documents\visual studio 2015\Projects\wf09\wf09\obj\Debug\wf09.pdb
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\bin\Debug\wf09.exe.config
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\bin\Debug\wf09.exe
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\bin\Debug\wf09.pdb
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.csprojAssemblyReference.cache
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.Form1.resources
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.Properties.Resources.resources
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.csproj.GenerateResource.cache
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.csproj.CoreCompileInputs.cache
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.exe
+E:\Учебные материалы(ШАГ)\WF\wf09\wf09\obj\Debug\wf09.pdb
